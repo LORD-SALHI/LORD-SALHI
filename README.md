@@ -56,8 +56,12 @@
 ### 📊 Stats GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LORD-SALHI&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LORD-SALHI&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=LORD-SALHI&theme=radical&hide_border=true&locale=fr" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LORD-SALHI&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LORD-SALHI&theme=radical" />
 </p>
 
 ---
