@@ -44,30 +44,4 @@
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📊 Stats GitHub
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=LORD-SALHI&theme=radical&hide_border=true&locale=fr" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LORD-SALHI&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LORD-SALHI&theme=radical" />
-</p>
-
----
-
-### 📫 Me contacter
-
-<p>
-  <a href="mailto:rayaneessalhi23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColo
